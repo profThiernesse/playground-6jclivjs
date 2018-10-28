@@ -27,6 +27,8 @@ int main() {
 
 ```
 
+Avant de compléter le code, exécuter le une fois pour constater les valeurs de pta et ptb. Une fois corrigé exécuter le code plusieurs fois.
+
 ```C runnable
 #include <stdio.h>
 
@@ -36,15 +38,25 @@ int main() {
     int *pta;
     int *ptb;    
     
-    //Partie à compléter
+    //Partie à compléter pour que :
+    // - pta pointe vers a
+    // - ptb pointe vers b
     
-    printf("Adresse de a %p\n",pta);
+    printf("Adresse de a (direct) %p\n",&a);
+    printf("Adresse de a %p\n\n",pta);
+    printf("Adresse de b (direct) %p\n",&b);
     printf("Adresse de b %p\n",ptb);
     
     return 0;
 }
 
 ```
+
+?[Que constatez-vous lors des différentes exécutions]
+- [ ] Rien
+- [x] Les adresses changent lors de chaque exécution
+- [ ] Les adresses sont toujours les mêmes
+- [x] Si pta et/ou ptb n'ont pas été affecté leur valeur n'ont pas de sens
 
 # Quizz
 
