@@ -67,4 +67,4 @@ int main() {
 
 # Quizz
 
-Afin de tester la compréhension la matière, complèter [ce questionnaire](https://goo.gl/forms/C3WkjJmB18vOww2C3)
+Afin de tester votre compréhension de la matière, complèter [ce questionnaire](https://goo.gl/forms/C3WkjJmB18vOww2C3)
