@@ -4,7 +4,8 @@ Pour réaliser les exercices suivants il est utile d'avoir compris la théorie s
 ## Rappels : 
 1. Chaque variable est stockée à une adresse précise en mémoire.
 1. Les pointeurs sont semblables aux variables, à ceci près qu'au lieu de stocker un nombre ils stockent l'adresse à laquelle se trouve une variable en mémoire.
-1. Si on place un symbole `&` devant un nom de variable, on obtient son adresse au lieu de sa valeur (ex. :&age).
+1. Si on place un symbole `&` devant un nom de variable, on obtient son adresse au lieu de sa valeur (ex. : `&age`).
+1. Si on place un symbole `*` devant un nom de pointeur, on obtient la valeur de la variable stockée à l'adresse indiquée par le pointeur.
 
 ## Exemple exécutable
 
@@ -33,7 +34,7 @@ int main() {
 
 ```
 
-Avant de compléter le code, exécuter le une fois pour constater les valeurs de pta et ptb. Une fois corrigé exécuter le code plusieurs fois.
+Avant de compléter le code, exécuter le une fois pour constater les valeurs de `pta` et `ptb`. Une fois compléter exécuter le code plusieurs fois.
 
 ```C runnable
 #include <stdio.h>
@@ -62,7 +63,7 @@ int main() {
 - [ ] Rien
 - [x] Les adresses changent lors de chaque exécution
 - [ ] Les adresses sont toujours les mêmes
-- [x] Si pta et/ou ptb n'ont pas été affecté leur valeur n'ont pas de sens
+- [x] Si `pta` et/ou `ptb` n'ont pas été affecté leur valeur n'ont pas de sens
 
 # Quizz
 
