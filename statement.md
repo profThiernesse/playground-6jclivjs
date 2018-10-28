@@ -15,7 +15,7 @@ int main() {
     //Affichage de la valeur de a grâce à a
     printf("Valeur de a : %d\n",a);    
     //Affichage de la valeur de a grâce à pta
-    printf("Valeur de a : %d\n",&pta);
+    printf("Valeur de a : %d\n",*pta);
     
     //Affichage de l'adresse de a grâce à a
     printf("Adresse de a : %p\n",&a);
