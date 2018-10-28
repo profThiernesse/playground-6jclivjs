@@ -1,4 +1,6 @@
 title: Les pointeurs
 plan:
-- title: Les pointeurs
+- title: Introduction
   statement: statement.md
+- title : Exercice 1
+  statement : ex1.md
