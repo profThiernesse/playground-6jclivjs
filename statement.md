@@ -27,6 +27,25 @@ int main() {
 
 ```
 
+```C runnable
+#include <stdio.h>
+
+int main() {
+    int a;
+    int b;
+    int *pta;
+    int *ptb;    
+    
+    //Partie à compléter
+    
+    printf("Adresse de a %p\n",pta);
+    printf("Adresse de b %p\n",ptb);
+    
+    return 0;
+}
+
+```
+
 # Quizz
 
 Afin de tester la compréhension la matière, complèter [ce questionnaire](https://goo.gl/forms/C3WkjJmB18vOww2C3)
