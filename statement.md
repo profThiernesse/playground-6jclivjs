@@ -1,5 +1,5 @@
 # Introduction
-Pour réaliser les exercices suivants il est utile d'avoir compris la théorie sur les pointeurs.
+Pour réaliser les exercices suivants il est utile d'avoir compris la théorie sur les pointeurs. Les pointeurs constituent une notion essentielle du langage C, mais néanmoins un peu complexe au début. Il faut prendre le temps de bien comprendre comment ils fonctionnent car beaucoup d'autres notions sont basées dessus.
 
 ## Rappels : 
 1. Chaque variable est stockée à une adresse précise en mémoire.
@@ -63,7 +63,7 @@ int main() {
 - [ ] Rien
 - [x] Les adresses changent lors de chaque exécution
 - [ ] Les adresses sont toujours les mêmes
-- [x] Si `pta` et/ou `ptb` n'ont pas été affecté leur valeur n'ont pas de sens
+- [x] Si pta et/ou ptb n'ont pas été affecté leur valeur n'ont pas de sens
 
 # Quizz
 
