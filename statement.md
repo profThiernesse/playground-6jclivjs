@@ -11,6 +11,6 @@ int main() {
 
 ```
 
-# Advanced usage
+# Quizz
 
-If you want a more complex example (external libraries, viewers...), see the [official documentation](https://tech.io/playgrounds/408/tech-io-documentation).
+Afin de tester la compréhension la matière, complèter [ce questionnaire](https://goo.gl/forms/C3WkjJmB18vOww2C3)
