@@ -1,4 +1,10 @@
-# Rappel
+# Introduction
+Pour réaliser les exercices suivants il est utile d'avoir compris la théorie sur les pointeurs.
+
+## Rappels : 
+1. Chaque variable est stockée à une adresse précise en mémoire.
+1. Les pointeurs sont semblables aux variables, à ceci près qu'au lieu de stocker un nombre ils stockent l'adresse à laquelle se trouve une variable en mémoire.
+1. Si on place un symbole `&` devant un nom de variable, on obtient son adresse au lieu de sa valeur (ex. :&age).
 
 ## Exemple exécutable
 
