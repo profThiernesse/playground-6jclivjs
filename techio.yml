@@ -4,3 +4,7 @@ plan:
   statement: statement.md
 - title : Exercice 1
   statement : ex1.md
+Projects:
+  first:
+    root:/first
+    runner:techio/cmake-gcc-runner:latest
