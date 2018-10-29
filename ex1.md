@@ -2,4 +2,4 @@
 
 Réaliser un programme C, contenant une fonction `echanger`. Cette fonction doit échanger les valeurs des deux entiers passées en arguments.
 
-@[TEST]({"stubs": ["src/first/main.c"],"command": "sh /project/target/run.sh"})
+
